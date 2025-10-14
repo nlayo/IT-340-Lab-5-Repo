@@ -1,0 +1,12 @@
+ 21:40:49 up  2:10,  1 user,  load average: 0.01, 0.03, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:         3960484     1813824      221352       61656     2017496     2146660
+Swap:        3819516           0     3819516
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.3G  9.3G  51% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  136K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/dev-nicoleheart/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/dev-nicoleheart/Ubuntu 24.04.3 LTS amd64
